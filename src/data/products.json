@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "name": "Big Mac",
+      "price": 5.99,
+      "ingredients": [
+        { "name": "Bun", "quantity": 2, "isOptional": false },
+        { "name": "Beef Patty", "quantity": 2, "isOptional": false },
+        { "name": "Cheese", "quantity": 1, "isOptional": true },
+        { "name": "Lettuce", "quantity": 1, "isOptional": true },
+        { "name": "Pickles", "quantity": 2, "isOptional": true }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Cola",
+      "price": 2.99,
+      "ingredients": [
+        { "name": "Cola", "quantity": 1, "isOptional": false },
+        { "name": "Ice", "quantity": 1, "isOptional": false }
+      ]
+    }
+  ]
